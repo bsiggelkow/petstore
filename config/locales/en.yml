@@ -2,3 +2,4 @@ en:
   hello: "Hello world"
   goodbye: "Goodbye, cruel world"
   whats_up_html: "<strong>What's up,</strong> Doc?"
+  test: This is a test
