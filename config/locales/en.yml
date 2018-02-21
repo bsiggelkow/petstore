@@ -14,3 +14,5 @@ en:
   jungle:
     greeting: Welcome to the Jungle!
     welcome: Welcome to the Jungle!
+  coffeeshop:
+    greeting: Would you like some coffee?
