@@ -1,8 +1,10 @@
 en:
   hello: "Hello world"
   goodbye: "Goodbye, cruel world"
-  whats_up_html: <strong>What's up,</strong> Doc?
+  whats_up_html: "<strong>What's up,</strong> Doc?"
   test: This is a test
   email:
     invoice:
       title: Invoice for %{order_number}
+  store:
+    dashboard: Dashboard
