@@ -1,4 +1,2 @@
 de:
-  whats_up_html: |-
-    was ist up
-    <strong></strong>
+  whats_up_html: "was ist up\n<strong></strong>"
