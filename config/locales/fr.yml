@@ -6,5 +6,8 @@ fr:
   email:
     invoice:
       title: Parle vous %{order_number}
+      greeting: Bienvenue to el Campo!
   store:
     dashboard: Tableau de bord
+  sms:
+    greeting: Bienvenue to el Campo!
