@@ -1,2 +1,4 @@
 de:
-  whats_up: Was ist uppen, herr Doctor?
+  whats_up_html: |-
+    was ist up
+    <strong></strong>
