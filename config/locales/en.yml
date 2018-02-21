@@ -11,3 +11,5 @@ en:
     dashboard: Dashboard
   sms:
     greeting: Welcome to the Camp!
+  jungle:
+    greeting: Welcome to the Jungle!
