@@ -7,5 +7,6 @@ en:
   email:
     invoice:
       title: Invoice for %{order_number}
+      greeting: Welcome to the Camp!
   store:
     dashboard: Dashboard
