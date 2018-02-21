@@ -3,6 +3,6 @@ en:
   goodbye: "Goodbye, cruel world"
   whats_up_html: <strong>What's up,</strong> Doc?
   test: This is a test
-email:
-  invoice:
-    title: Invoice for %{order_number}
+  email:
+    invoice:
+      title: Invoice for %{order_number}
