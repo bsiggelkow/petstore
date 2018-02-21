@@ -1,10 +1,12 @@
 en:
   hello: "Hello world"
+  email.invoice.subject: ''
   goodbye: "Goodbye, cruel world"
   whats_up_html: "<strong>What's up,</strong> Doc?"
   test: This is a test
   email:
     invoice:
       title: Invoice for %{order_number}
+      greeting: Welcome to the Camp!
   store:
     dashboard: Dashboard
