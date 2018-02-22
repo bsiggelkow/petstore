@@ -17,7 +17,7 @@ en:
   coffeeshop:
     greeting: Would you like some coffee?
   abc: I like to start with the ABC of it.
-  # this is a comment http://take.ms/esw1U
+  # this is a comment dude http://take.ms/esw1U
   xyz: Then, move on to the XYZ of it.
   # lh-check { min: -1, max: 50}
   pdq: Pretty damn quick
