@@ -1,4 +1,5 @@
 de:
-  whats_up_html: |-
-    was ist up
-    <strong></strong>
+  whats_up_html: "<strong>Was ist upen,</strong>\nHerr Doctor?"
+  email:
+    invoice:
+      title: Rechnung für %{order_number}
