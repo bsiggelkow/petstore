@@ -18,3 +18,4 @@ en:
   coffeeshop:
     greeting: Would you like some coffee?
   ghi: This is the GHI text.
+  stripe: Stripe is an awesome payment provider
