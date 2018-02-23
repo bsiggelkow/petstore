@@ -1,10 +1,2 @@
 fr:
-  hello: "Bonjour le monde"
-  goodbye: "Adieu monde cruel"
-  whats_up_html: "<strong>Quoi de neuf, </strong>Doctor?"
-  test: "C'est un test"
-  email:
-    invoice:
-      greeting: Bienvenue to el Campo!
-  store:
-    dashboard: Tableau de bord
+  whats_up_html: "<strong>Was ist upen,</strong>\nHerr Doctor?"
