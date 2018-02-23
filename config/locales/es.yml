@@ -1,14 +1,14 @@
-fr:
-  hello: "Bonjour le monde"
-  goodbye: "Adieu monde cruel"
-  whats_up_html: "<strong>Quoi de neuf, </strong>Doctor?"
-  test: C'est un test
+es:
+  hello: "Hello world"
+  goodbye: "Goodbye, cruel world"
+  whats_up_html: "<strong>What's up,</strong> Doc?"
+  test: This is a test
   email:
     invoice:
       title: Invoice for %{order_number}
-      greeting: Bienvenue to el Campo!
+      greeting: Welcome to the Camp!
   store:
-    dashboard: Tableau de bord
+    dashboard: Dashboard
   sms:
     greeting: Welcome to the Camp!
   jungle:
