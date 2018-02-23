@@ -1,5 +1,4 @@
 fr:
-  hello: "Bonjour le monde"
   goodbye: "Adieu monde cruel"
   whats_up_html: "<strong>Quoi de neuf, </strong>Doctor?"
   test: "C'est un test"
@@ -9,4 +8,7 @@ fr:
   store:
     dashboard: Tableau de bord
   abc: "J'aime commencer par l'ABC de cela."
+  # this is a comment dude
   xyz: Ensuite, passez à la XYZ de celui-ci.
+  # lh-check { max: 50, min: -1 }
+  pdq: Assez vite duder
