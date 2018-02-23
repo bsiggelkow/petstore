@@ -2,9 +2,17 @@ fr:
   hello: "Bonjour le monde"
   goodbye: "Adieu monde cruel"
   whats_up_html: "<strong>Quoi de neuf, </strong>Doctor?"
-  test: "C'est un test"
+  test: C'est un test
   email:
     invoice:
+      title: Invoice for %{order_number}
       greeting: Bienvenue to el Campo!
   store:
     dashboard: Tableau de bord
+  sms:
+    greeting: Welcome to the Camp!
+  jungle:
+    greeting: Welcome to the Jungle!
+    welcome: Welcome to the Jungle!
+  coffeeshop:
+    greeting: Would you like some coffee?
