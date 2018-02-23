@@ -1,10 +1,15 @@
 fr:
-  hello: Bonjour le monde, si vous plais
+  skating: Le patinage est merveilleux
   goodbye: "Adieu monde cruel"
   whats_up_html: "<strong>Quoi de neuf, </strong>Doctor?"
-  test: "C'est un test"
+  test: C'est un test
   email:
     invoice:
       greeting: Bienvenue to el Campo!
   store:
     dashboard: Tableau de bord
+  jungle:
+    greeting: Bienvenue to el Campo!
+    welcome: Bienvenue to el Campo!
+  coffeeshop:
+    greeting: Vous voulez un café ?
