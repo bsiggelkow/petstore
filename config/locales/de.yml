@@ -1,2 +1,7 @@
 de:
+  hallo: "Hallo Welt"
+  goodbye: "Auf Wiedersehen grausame Welt"
   whats_up_html: "<strong>Was ist upen,</strong>\nHerr Doctor?"
+  email:
+    invoice:
+      title: Rechnung für %{order_number}
