@@ -1,23 +1,7 @@
 de:
   hallo: "Hallo Welt"
-  skating: ''
   goodbye: "Auf Wiedersehen grausame Welt"
   whats_up_html: "<strong>Was ist upen,</strong>\nHerr Doctor?"
-  test: ''
   email:
     invoice:
       title: Rechnung für %{order_number}
-      greeting: ''
-  store:
-    dashboard: ''
-  sms:
-    greeting: ''
-  jungle:
-    greeting: ''
-    welcome: ''
-  coffeeshop:
-    greeting: ''
-  ghi: ''
-  stripe: ''
-  welcome: ''
-  cat: ''
