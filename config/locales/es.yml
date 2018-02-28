@@ -1,2 +1,23 @@
 es:
-  dog: perro
+  hallo: "Hola Mundo"
+  skating: ''
+  goodbye: ""
+  whats_up_html: ""
+  test: ''
+  email:
+    invoice:
+      title: ''
+      greeting: ''
+  store:
+    dashboard: ''
+  sms:
+    greeting: ''
+  jungle:
+    greeting: ''
+    welcome: ''
+  coffeeshop:
+    greeting: ''
+  ghi: ''
+  stripe: ''
+  welcome: ''
+  cat: ''
